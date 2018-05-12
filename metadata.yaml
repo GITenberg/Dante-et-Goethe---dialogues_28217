@@ -1,0 +1,36 @@
+_repo: Dante-et-Goethe---dialogues_28217
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stern, Daniel
+    aliases:
+    - D'Agoult, Marie, comtesse
+    - Agoult, Marie-Catherine-Sophie de Flavigny, comtesse d'
+    - Agoult, Marie Catherine Sophie de Flavigny, comtesse d'
+    - Flavigny, Marie de
+    birthdate: 1805
+    deathdate: 1876
+    gutenberg_agent_id: '32284'
+    url: http://www.gutenberg.org/2009/agents/32284
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie_d%27Agoult
+    - http://en.wikipedia.org/wiki/Marie_d%27Agoult
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28217'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dante Alighieri, 1265-1321'
+- !lcc 'PQ'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+title: 'Dante et Goethe : dialogues'
+url: http://www.gutenberg.org/ebooks/28217

@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_d%27Agoult
     - http://en.wikipedia.org/wiki/Marie_d%27Agoult
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28217#Dante-et-Goethe---dialogues
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-02-28'
 gutenberg_type: Text
